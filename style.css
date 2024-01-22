@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    background-color: #f7ead2;
+}
+
+.header__logo {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header__nav {
+    padding-top: 51px;
+    padding-bottom: 51px;
+}
+
+.home {
+    padding-top: 45px;
+    padding-bottom: 162px;
+}
+
+.home__content {
+    padding-right: 40px;
+}
+
+.home__content h1 {
+    padding-bottom: 17px;
+}
+
+.home__button {
+    padding-top: 37px;
+}
+
+.footer {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
