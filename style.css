@@ -44,6 +44,10 @@ a {
     font-size: 14px;
 }
 
+.header__nav a img{
+    padding-left: 8px;
+}
+
 .name__Be {
     color: #F25822;
 }
